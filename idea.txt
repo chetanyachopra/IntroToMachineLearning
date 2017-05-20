@@ -1,0 +1,4 @@
+1.) predicting earthquake from previous year data 
+2.) Sentimental analysis from text
+3.) Stock price prediting model
+4.) Race Betting from previous leaderboard observations
