@@ -17,3 +17,4 @@ predictions=classifier.predict(x_test)
 from sklearn.metrics import accuracy_score
 
 print(accuracy_score(y_test,predictions))
+#a5bb1731e8dcad73ab009f44246ebd35
